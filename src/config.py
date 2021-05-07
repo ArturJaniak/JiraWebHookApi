@@ -1,7 +1,7 @@
 class Config(object):
     DEBUG = False
     TESTING = False
-    SLACK_URL = "https://hooks.slack.com/services/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"
+    SLACK_URL = "https://hooks.slack.com/services/data/data/data"
 
 
 class ProductionConfig(Config):
